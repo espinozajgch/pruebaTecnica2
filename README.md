@@ -1,4 +1,4 @@
-##PRUEBA TÉCNICA BACKEND ENGINEER
+## PRUEBA TÉCNICA BACKEND ENGINEER
 ## Proyecto Spring Boot con JPA
 
 El servicio se conecta una base de datos `MySQL`, la cual fue otorgada para la prueba.
