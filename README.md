@@ -1,7 +1,8 @@
 ##PRUEBA TÉCNICA BACKEND ENGINEER
 ## Proyecto Spring Boot con JPA
 
-El servicio se conecta una base de datos `MySQL`, la cual fue otorgada para la prueba
+El servicio se conecta una base de datos `MySQL`, la cual fue otorgada para la prueba.
+
 se deben modificar la credenciales de conexion a la bd en el archivo application.properties del proyecto
 
 El servicio se desplegara en el puerto 8080, se puede consultar de la sigiente forma:
